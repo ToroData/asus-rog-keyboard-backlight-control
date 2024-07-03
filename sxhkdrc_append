@@ -1,0 +1,14 @@
+
+####
+
+# Change lighting mode (cycle through various modes)
+F4
+    ~/.local/bin/cycle_led_modes.sh
+
+# Increase keyboard lightning brightness
+F3
+    asusctl --next-kbd-bright
+
+# Decrease keyboard lighting brightness
+F2
+    asusctl --prev-kbd-bright
