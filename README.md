@@ -2,6 +2,10 @@
 
 This tutorial will guide you through the steps necessary to configure the function keys `F2`, `F3`, and `F4` to control the keyboard backlight on your ASUS ROG Strix with Arch Linux using `asusctl` and `sxhkd`.
 
+> [!NOTE]  
+> If you are using **Ubuntu or another Debian-based distribution with GNOME**, do not follow this guide.  
+> Instead, go to [`bash/README.md`](./bash/README.md) for the proper instructions for your system.
+
 ## Requirements
 
 - Arch Linux
